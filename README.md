@@ -4,8 +4,10 @@ Covid19 flutter application which uses COVID-19 REST API for India (api.rootnet.
 Download the app <a href="https://drive.google.com/file/d/1li7WhO_sOP2w2luQB6vBW82NF0LUXOVg/view?usp=sharing" target="_blank" title="Download from Google drive"> Link </a>
 
 
-|                                                           |                                                           |
-| --------------------------------------------------------- | --------------------------------------------------------- |
-| <img src="Assets/snapshot/Screenshot_01.png"  width="50%"/> | <img src="Assets/snapshot/Screenshot_02.png" width="50%"/>  | <img src="Assets/snapshot/Screenshot_03.png" width="50%"> |
+|                                                             |                                                           |
+| ------------------------------------------------------------| --------------------------------------------------------- |
+| <img src="Assets/snapshot/Screenshot_01.png"  width="350"/> | <img src="Assets/snapshot/Screenshot_02.png" width="350"> |
+| <img src="Assets/snapshot/Screenshot_03.png"  width="350"/> | <img src="Assets/snapshot/Screenshot_04.png" width="350"> |
+| <img src="Assets/snapshot/Screenshot_05.png"  width="350"/> | <img src="Assets/snapshot/Screenshot_06.png" width="350"> |
 
 
