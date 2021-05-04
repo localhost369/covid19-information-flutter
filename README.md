@@ -6,11 +6,6 @@ Download the app <a href="https://drive.google.com/file/d/1li7WhO_sOP2w2luQB6vBW
 
 |                                                           |                                                           |
 | --------------------------------------------------------- | --------------------------------------------------------- |
-| <img src="Assets/snapshot/Screenshot_01.png"  width="25%"/> | <img src="Assets/snapshot/Screenshot_02.png" width="25%"/>  |
+| <img src="Assets/snapshot/Screenshot_01.png"  width="50%"/> | <img src="Assets/snapshot/Screenshot_02.png" width="50%"/>  | <img src="Assets/snapshot/Screenshot_03.png" width="50%"> |
 
-<img src="Assets/snapshot/Screenshot_01.png" width="25%">
-<img src="Assets/snapshot/Screenshot_02.png" width="25%">
-<img src="Assets/snapshot/Screenshot_03.png" width="25%">
-<img src="Assets/snapshot/Screenshot_04.png" width="25%">
-<img src="Assets/snapshot/Screenshot_05.png" width="25%">
-<img src="Assets/snapshot/Screenshot_06.png" width="25%">
+
